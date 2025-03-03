@@ -4,7 +4,7 @@ import React from 'react';
 
 function Article4() {
   return (
-     
+     <h1>Kāds ir piemērs ar skaidrojumu?</h1>
 <a>Piemērs: Tiešsaistes veikals
 Aktori:
 Klients
