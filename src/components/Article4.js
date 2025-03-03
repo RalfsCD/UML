@@ -1,9 +1,9 @@
 import React from 'react';
 
 
-
 function Article4() {
   return (
+    <>
      <h1>Kāds ir piemērs ar skaidrojumu?</h1>
 <a>Piemērs: Tiešsaistes veikals
 Aktori:
@@ -20,6 +20,9 @@ Pērc produktu iekļauj Reģistrēties (Include), ja klients nav reģistrējies.
 Diagrammas skaidrojums:
 Klients veic Reģistrēšanos un Pērk produktus.
 Admins pievieno produktus veikalam.</a>
+</>
   );
+
   }
+
 export default Article4;
