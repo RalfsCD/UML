@@ -12,18 +12,26 @@ function App() {
       <h1>Use Case Diagram</h1>
       <br></br>
 
-  <main>kas tā ir un vai tā ir struktūras vai uzvedības modeļa daļa?</main>
+  <main>kas tā ir un vai tā ir struktūras vai uzvedības modeļa daļa?
+    <br></br>
  <Article1 /> 
+ </main>
 
- <main>kad to izmanto?</main>
+ <main>kad to izmanto?
+   <br></br>
+
  <Article2 /> 
+ </main>
 
- <main>kādi UML elementi ir šajā diagrammā?</main>
+ <main>kādi UML elementi ir šajā diagrammā?
+   <br></br>
  <Article3 /> 
- 
- <main>kāds ir piemērs ar skaidrojumu?</main>
- <Article4 /> 
+ </main>
 
+ <main>kāds ir piemērs ar skaidrojumu?
+   <br></br>
+ <Article4 /> 
+ </main>
     </div>
   );
 }
