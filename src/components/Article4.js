@@ -37,7 +37,7 @@ function Article4() {
   </ul>
   </div>
   <div>
-    <img src={require("../img/hihi-good.png")} style={{width: '100%', height: '60%'}} />
+    <img src={require("../img/hihi-goodd.png")} style={{width: '100%', height: '60%'}} />
   </div>
 </div>
 </>
